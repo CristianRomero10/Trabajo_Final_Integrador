@@ -1,4 +1,11 @@
 .row{
-    background-color: blueviolet;
-    padding: 20px;
-}
+        display: flex;
+        flex-direction: row;
+        align-items: flex-end;
+        background-color: blueviolet;
+    padding: 4px;
+    }
+    h1{
+        text-shadow: 4px 4px 4px black;
+    }
+    

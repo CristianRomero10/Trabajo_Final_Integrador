@@ -12,3 +12,12 @@ width: auto;
 .img-proyecto{
     box-shadow: 10px 10px 5px black; 
 }
+h1{
+    text-shadow: 4px 4px 4px black;
+}
+p{
+    text-shadow: 4px 4px 4px black;
+}
+h2{
+    text-shadow: 4px 4px 4px black;
+}
